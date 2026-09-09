@@ -1,4 +1,4 @@
-# Learn C PROGRAMMING— From Zero to Confident, One Module at a Time
+# Learn C PROGRAMMING— From Zero
 
 Hi, I'm **RickDeazer** (Patrick Ngotho) — a 19-year-old programmer and CEO of **RPC (Relay Programming Company)**, currently studying Computer Science at **Moi University**.
 

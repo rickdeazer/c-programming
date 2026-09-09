@@ -1,0 +1,2 @@
+Hello world this is Mr Rick
+I love to program in C
